@@ -2,6 +2,6 @@
 int main() 
 { 
 	int x =100, y=100;
-	printf("%d\n",)
+	printf("%d\n", x == y);
 	return 0;
 }
